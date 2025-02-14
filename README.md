@@ -1,4 +1,4 @@
-## Jared @ UW Paul Allen School
+## Jared @ UW Paul G. Allen School
 
 I'm a sophomore computer engineering major studying at the University of Washington's Paul G. Allen School of Computer Science & Engineering.
 
