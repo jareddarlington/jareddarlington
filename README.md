@@ -1,13 +1,17 @@
-### Hello
+## Jared @ UW Paul Allen School
 
 I'm a sophomore computer engineering major studying at the University of Washington's Paul G. Allen School of Computer Science & Engineering.
 
 Looking for research opportunities spring 2025.
 
-My interests include:
+### I'm interested in:
 
--   Machine learning
--   Pure and applied math
--   Accessible technology
--   Anything math or cs related
--   Looking to learn more about computational neuroscience and biology
+-   machine learning
+-   pure and applied math
+-   accessible technology
+-   anything math or cs related
+
+### I'm looking to learn more about:
+
+-   computational neuroscience and biology
+-   robotics
