@@ -13,5 +13,5 @@ I'm a sophomore computer engineering major at the University of Washington's Pau
 
 ### I'm looking to learn more about:
 
--   Computational neuroscience, biology, and chemistry
+-   Computational neuroscience and biology
 -   Robotics
