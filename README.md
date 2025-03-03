@@ -1,6 +1,6 @@
 ## Jared @ UW Paul G. Allen School
 
-I'm a sophomore computer engineering major at the University of Washington's Paul G. Allen School of Computer Science & Engineering.
+I'm a sophomore computer science major at the University of Washington's Paul G. Allen School of Computer Science & Engineering.
 
 > Looking for research opportunities spring 2025.
 
