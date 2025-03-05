@@ -6,7 +6,7 @@ I'm a sophomore computer science major at the University of Washington's Paul G.
 
 ### I'm interested in:
 
--   Machine learning
+-   Machine learning and AI
 -   Pure and applied math
 -   Accessible technology
 -   Anything math or CSE related
@@ -15,3 +15,4 @@ I'm a sophomore computer science major at the University of Washington's Paul G.
 
 -   Computational neuroscience and biology
 -   Robotics
+-   Computer architecture
