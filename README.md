@@ -14,4 +14,4 @@ I'm a sophomore computer science major at the University of Washington's Paul G.
 ### I'm looking to learn more about:
 
 -   Computational neuroscience and biology
--   Computer architecture
+-   Natural language processing
