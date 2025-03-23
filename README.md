@@ -13,5 +13,5 @@ I'm a sophomore computer science major at the University of Washington's Paul G.
 
 ### I'm looking to learn more about:
 
--   Natural language processing
--   Anything math or CSE related
+-   Natural language processing, linguistics
+-   Everything math and CSE related
