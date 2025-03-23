@@ -1,6 +1,6 @@
-## Jared @ UW Paul G. Allen School
+## Hi, I'm Jared
 
-I'm a sophomore computer science major at the University of Washington's Paul G. Allen School of Computer Science & Engineering.
+I'm a sophomore computer science major, with a minor in neural computation and engineering, at the University of Washington's Paul G. Allen School of Computer Science & Engineering.
 
 > Looking for research opportunities spring 2025.
 
@@ -9,9 +9,10 @@ I'm a sophomore computer science major at the University of Washington's Paul G.
 -   Machine learning, Deep Learning
 -   Pure and applied math
 -   Accessible technology
--   Anything math or CSE related
+-   Computational neuroscience
+
 
 ### I'm looking to learn more about:
 
--   Computational neuroscience and biology
 -   Natural language processing
+-   Anything math or CSE related
