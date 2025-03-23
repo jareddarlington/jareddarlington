@@ -7,10 +7,9 @@ I'm a sophomore computer science major at the University of Washington's Paul G.
 ### I'm interested in:
 
 -   Machine learning, Deep Learning
+-   Computational neuroscience
 -   Pure and applied math
 -   Accessible technology
--   Computational neuroscience
-
 
 ### I'm looking to learn more about:
 
