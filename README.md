@@ -6,7 +6,7 @@ I'm a sophomore computer science major at the University of Washington, with a m
 
 ### I'm interested in:
 
--   Machine learning, Deep Learning
+-   Machine learning, deep Learning
 -   Computational neuroscience
 -   Pure and applied math
 -   Accessible technology
