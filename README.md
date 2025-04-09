@@ -1,6 +1,6 @@
 ## Hi, I'm Jared
 
-I'm a sophomore computer science major at the University of Washington, with a minor in neural computation and engineering.
+I'm a sophomore computer science major at the University of Washington.
 
 > Looking for research opportunities spring 2025!
 
