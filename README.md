@@ -8,5 +8,5 @@ I'm a third-year undergraduate studying Computer Science at the University of Wa
 
 -   Machine learning, deep Learning
 -   Natural language processing
--   Computational neuroscience
+-   Computational neuroscience, brain-computer interfaces
 -   Accessible technology
