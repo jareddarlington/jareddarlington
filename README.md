@@ -1,6 +1,6 @@
 ## Hello,
 
-I'm a second-year undergraduate studying Computer Science at the University of Washington, Seattle.
+I'm a third-year undergraduate studying Computer Science at the University of Washington, Seattle.
 
 > Seeking research positions for autumn 2025.
 
