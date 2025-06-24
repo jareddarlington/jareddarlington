@@ -1,4 +1,4 @@
-## Hello,
+## Hello
 
 I'm a third-year undergraduate studying Computer Science at the University of Washington, Seattle.
 
