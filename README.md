@@ -6,7 +6,7 @@ I'm a third-year undergraduate studying Computer Science at the University of Wa
 
 ### I'm interested in:
 
--   Machine learning, deep Learning
+-   Machine learning
 -   Natural language processing
 -   Brain-computer interfaces
 -   Accessible technology
