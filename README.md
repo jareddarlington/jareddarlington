@@ -1,9 +1,5 @@
 ## Hello!
 
-I'm a third-year undergraduate studying Computer Science at the University of Washington, Seattle.
+I'm a third-year undergraduate studying computer science at the University of Washington, Seattle.
 
-### I'm interested in:
-
--   AI/ML
--   Natural language processing
--   Computational neuroscience
+Check out my website [here](https://jareddarlington.github.io/)!
