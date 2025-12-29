@@ -1,3 +1,1 @@
-# Hello!
-
-Check out my website [here](https://jareddarlington.github.io/).
+### Check out my website [here](https://jareddarlington.github.io/).
